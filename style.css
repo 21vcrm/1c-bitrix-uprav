@@ -1,0 +1,46 @@
+.montserrat-1c-bitrix {
+    font-family: Montserrat;
+}
+.cross-img-1c-bitrix {
+    width: 20px;
+    margin: 0px 110px 0px 70px;
+}
+.gal-img-1c-bitrix {
+    width: 40px;
+    margin-left: 60px;
+    margin-right: 100px;
+}
+.infinity-1c-bitrix {
+    margin: 0px 115px 0px 74px;
+}
+.montserrat-1c-bitrix summary {
+    cursor: pointer;
+}
+.element-details-1c-bitrix {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    justify-content: space-between;
+}
+.tarifs-1c-bitrix {
+    display: flex;
+    justify-content: end;
+    text-align: center;
+}
+.element-tarifs-1c-bitrix {
+    margin: 0px 30px;
+}
+.price-1c-bitrix {
+    font-size: 22px;
+    margin-top: 40px;
+}
+.summary-1c-bitrix {
+    background-color: #16233c;
+    color: white;
+    padding: 25px;
+}
+.subelement-details-1c-bitrix {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
