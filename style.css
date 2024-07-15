@@ -33,6 +33,9 @@
     display: flex;
     justify-content: end;
     text-align: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
 }
 .element-tarifs-1c-bitrix {
     margin: 0px 30px;
