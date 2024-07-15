@@ -5,10 +5,17 @@
     width: 20px;
     margin: 0px 110px 0px 70px;
 }
+.cross2-img-1c-bitrix {
+    width: 20px;
+    margin: 0px 220px 0px 180px;
+}
 .gal-img-1c-bitrix {
     width: 40px;
-    margin-left: 60px;
-    margin-right: 100px;
+    margin: 0px 100px 0px 60px;
+}
+.gal2-img-1c-bitrix {
+    width: 40px;
+    margin: 0px 210px 0px 170px;
 }
 .infinity-1c-bitrix {
     margin: 0px 115px 0px 74px;
@@ -30,6 +37,9 @@
 .element-tarifs-1c-bitrix {
     margin: 0px 30px;
 }
+.element-tarifs2-1c-bitrix {
+    margin: 0px 140px;
+}
 .price-1c-bitrix {
     font-size: 22px;
     margin-top: 40px;
@@ -38,6 +48,7 @@
     background-color: #16233c;
     color: white;
     padding: 25px;
+    font-size: 18px;
 }
 .subelement-details-1c-bitrix {
     display: flex;
